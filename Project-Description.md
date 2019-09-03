@@ -1,4 +1,4 @@
-# Assistant Rover
+# Assistant Robot
 
 ## Team Members 
 * Kevin Blount (MET) - blountkn@mail.uc.edu
@@ -42,15 +42,16 @@ to the 3D designed and printed chasse of the rover.
 * Kevin - Sensor Technology
   * Research, planning, and development of the rover's sensors.
 * Anthony - Rover Design
-  * Research and creation of rover's design.
+  * Research and creation of robot's design.
 * Brock - System Programming
-  * Research and Development of rover's movements and abilities. 
+  * Research and Development of robot's movements and abilities. 
   
 ## Overall Goal
-* Locate a bottle of water
-* Grab the bottle of water
-* Return the water back to the original location
+* At certain times during the day bring medicine the person in need of it.
+ * Locate person in need of medicine.
+ * Deliver medicine to them.
+ * Return to starting position.
 
 ## Expectations for Final Demo
 * Have the rover be able to complete our expected goal
-  * Retrieve water
+  * Retrieve medicine.
