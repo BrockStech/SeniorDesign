@@ -1,0 +1,17 @@
+# Task List
+- [x] Research sensors to incorporate on robot (Kevin)
+- [x] Research robot design (Anthony)
+- [x] Investigate possible design concepts (Anthony)
+- [ ] Finalize design concept (Anthony)
+- [ ] Obtain robot parts to begin working on drive (Kevin)
+- [ ] Finalized CAD design for drive train (Anthony)
+- [ ] Research development design of robot (Brock)
+- [ ] Develop code for robot's drive train (Brock)
+- [ ] Design storage compartment (Kevin)
+- [ ] Complete work on storage compartment (Kevin)
+- [ ] Develop code to open/close storage compartment (Brock)
+- [ ] Implement sensors and camera (Kevin)
+- [ ] Validate development is complete (Anthony)
+- [ ] Validate robot functionality is complete (Brock)
+- [ ] Refine and test robot (Brock)
+- [ ] Tech Expo Presentation 
