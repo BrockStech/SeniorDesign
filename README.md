@@ -31,6 +31,7 @@ Brock Stechschulte, Anthony Dietz, Kevin Blount and Janet Dong (Project Advisor)
 ## Self-Assessment Essays
 
 ## Professional Biographies
+* [Brock Stechschulte](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Biography_Stechschulte.md)
 
 ## Budget
 * Expenses to date or statement that there have not been any.
