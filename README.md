@@ -1,10 +1,13 @@
 # The Medicine Delivery Robot
-## Senior Design Repository 
+Senior Design Repository
+
+## Members
 Brock Stechschulte, Anthony Dietz, Kevin Blount and Janet Dong (Project Advisor)
 
-# TABLE OF CONTENTS
 ## Project Abstract
 #### For our project we are tackling the problem of how hard it is for senior citizens receive their medications in their own home. To resolve this problem we are creating The Medicine Delivery Robot. This robot will deliver a person’s medicine to them wherever they are in their home. As a team we have all witnessed senior citizens have a tough time remembering to take their medicine, or to be physically unable to retrieve their medicine. As engineers, it would be fulfilling to build and program a robot that would navigate your home and deliver important medications to the person in need. 
+
+# TABLE OF CONTENTS
 
 ## Project Description
 * [Project Description](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Project-Description.md)
@@ -29,13 +32,13 @@ Brock Stechschulte, Anthony Dietz, Kevin Blount and Janet Dong (Project Advisor)
 * [Slide Deck]()
 
 ## Self-Assessment Essays
+* [Brock Stechschulte](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Self_Assessment_Stechschulte.md)
 
 ## Professional Biographies
 * [Brock Stechschulte](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Biography_Stechschulte.md)
 
 ## Budget
-* Expenses to date or statement that there have not been any.
-* Show monetary value of donated items and donation sources.
+* [Budget](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Budget.md)
 
 ## Appendix
 * Include appropriate references, citations, links to code repositories, and meeting notes.
