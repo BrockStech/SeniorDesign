@@ -5,7 +5,4 @@
 - [ ]  $50.00 - Sensors
 - [ ]  $30.00 - 3D Printing Supplies
 
-# Donations
-- [ ] RC Test Car
-
-*A checkmark indicates if an item has already been purchased or donated*
+*A checkmark indicates if an item has already been purchased*
