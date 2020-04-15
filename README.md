@@ -18,7 +18,7 @@ For our project we are tackling the problem of how hard it is for senior citizen
   * [Level 0](https://github.com/BrockStech/SeniorDesign/blob/master/Design_Diagrams/Design_Diagram0.png)
   * [Level 1](https://github.com/BrockStech/SeniorDesign/blob/master/Design_Diagrams/Design_Diagram1.png)
   * [Level 2](https://github.com/BrockStech/SeniorDesign/blob/master/Design_Diagrams/Design_Diagram2.png)
-  * [Web App UI](https://github.com/BrockStech/SeniorDesign/blob/master/Design_Diagrams/MedicineDeliveryRobotScreenshot.PNG)
+  * [Web App UI](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Other/Images/UserInterface.png)
   * [Concept Drawings](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/ConceptDrawings.pdf)
   * [Description of Design Diagrams](https://github.com/BrockStech/SeniorDesign/blob/master/Design_Diagrams/DesignDiagramExplanation.md)
   
