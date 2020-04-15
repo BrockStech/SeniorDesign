@@ -12,6 +12,9 @@ For our project we are tackling the problem of how hard it is for senior citizen
 ## Project Description
 * [Project Description](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/ProjectDescription.md)
 
+## Expo Poster
+* [Expo Poster](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/ExpoPosterFinal.pdf)
+
 ## User Stores and Design Diagrams
 * [User Stories](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/UserStories.md)
 * [Design Diagrams](https://github.com/BrockStech/SeniorDesign/tree/master/Design_Diagrams)
@@ -38,6 +41,9 @@ For our project we are tackling the problem of how hard it is for senior citizen
 
 ## Professional Biographies
 * [Brock Stechschulte](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Other/BiographyStechschulte.md)
+
+## Semester 2 Meeting Log
+* [Meeting Log](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/SenorDesignMeetingLogSemester2.pdf)
 
 ## Project Budget
 * [Budget](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Budget.pdf)
