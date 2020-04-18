@@ -34,7 +34,7 @@ For our project we are tackling the problem of how hard it is for senior citizen
 
 ## Project Presentation
 * [Presentation](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Presentation/Presentation.md)
-* [Slide Deck](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Presentation/MedicalDeliveryRobotDesignPresentation.pptx)
+* [Slide Deck](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Presentation/MedicineDeliveryRobotDesignPresentation.pptx)
 
 ## Self-Assessment Essay
 * [Brock Stechschulte](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/SelfEvaluationStechschulte.pdf)
