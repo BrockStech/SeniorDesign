@@ -15,6 +15,9 @@ For our project we are tackling the problem of how hard it is for senior citizen
 ## Expo Poster
 * [Expo Poster](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/ExpoPosterFinal.pdf)
 
+## Final Report
+* [Final Report Document](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/Presentation/The%20Medicine%20Delivery%20Robot.pdf)
+
 ## User Stores and Design Diagrams
 * [User Stories](https://github.com/BrockStech/SeniorDesign/blob/master/Assignments/UserStories.md)
 * [Design Diagrams](https://github.com/BrockStech/SeniorDesign/tree/master/Design_Diagrams)
